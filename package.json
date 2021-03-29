@@ -6,10 +6,14 @@
     "format": "prettier --write \"src/**/*.{js,jsx,ts,tsx}\"",
     "lint": "prettier --check \"src/**/*.{js,jsx,ts,tsx}\""
   },
+  "license": "MIT",
   "dependencies": {
     "@snowpack/plugin-postcss": "^1.2.1",
-    "@tailwindcss/jit": "^0.1.15",
+    "@tailwindcss/jit": "^0.1.17",
     "autoprefixer": "^10.2.5",
+    "feather-icons": "^4.28.0",
+    "firebase": "^8.3.1",
+    "framer-motion": "^4.0.3",
     "postcss": "^8.2.8",
     "postcss-cli": "^8.3.1",
     "react": "^17.0.0",
