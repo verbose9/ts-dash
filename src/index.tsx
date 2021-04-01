@@ -1,6 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import App from './App';
+import 'halfmoon/css/halfmoon-variables.min.css';
 import './styles/style.css';
 
 ReactDOM.render(
