@@ -1,0 +1,10 @@
+{
+  "imports": {
+    "halfmoon": "./halfmoon.js",
+    "halfmoon/css/halfmoon-variables.min.css": "./halfmoon/css/halfmoon-variables.min.css",
+    "react": "./react.js",
+    "react-dom": "./react-dom.js",
+    "react-feather": "./react-feather.js",
+    "uuid": "./uuid.js"
+  }
+}
