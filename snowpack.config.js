@@ -25,6 +25,6 @@ module.exports = {
     /* ... */
   },
   buildOptions: {
-    baseUrl: "http://verbose9.github.io/ts-dash/",
+    baseUrl: "./",
   },
 };
